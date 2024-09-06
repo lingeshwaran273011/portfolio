@@ -1,0 +1,127 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url("images/flat-lay-black-lives-matter-awareness.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.xo{
+    margin-top: 20vh;
+    color:gold;
+    margin-left: 17%;
+    font-family: cursive;
+}
+
+.po{
+    margin-top: -60px;
+    position: fixed;
+    margin-left: 130vh;
+    display: flex;
+    gap: 60px; 
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.if{
+    color: white;
+}
+.of{
+    color: white;
+}
+.hlo{
+    color: white;
+}
+.op{
+    color: white;
+}
+.if:hover{
+    border: 2px solid blue;
+    color: blueviolet;
+
+}
+.of:hover{
+    border: 2px solid blue;
+    margin-bottom: 30px;
+    color: blueviolet;
+}
+.hlo:hover{
+    border: 2px solid blue;
+    margin-bottom: 30px;
+    color: blueviolet;
+}
+.op:hover{
+    border: 2px solid blue;
+    margin-bottom: 30px;
+    color: blueviolet;
+}.qq{
+    margin-top: 40px;
+}
+.iu{
+    color: rgb(29, 33, 147);
+    margin-left: 20%;
+}
+.de{
+    color: rgb(255, 255, 250);
+    margin-left: 20%;
+    font-family: cursive;
+}
+.aq{
+    color: rgb(253, 255, 251);
+    margin-left: 20%;
+    font-family: cursive;
+}
+.iiu{
+    color: rgb(20, 192, 20);
+    margin-left: 20%;
+}
+.lp{
+    color: rgb(255, 255, 248);
+    margin-left: 20%;
+}
+.az{
+    color: rgb(227, 48, 48);
+    margin-left: 20%;
+}
+
+.fr{
+    color: rgb(236, 236, 226);
+    margin-left: 20%;
+}
+.dx{
+    color: rgba(11, 62, 193, 0.648);
+    margin-left: 20%;
+}
+.kl{
+    color: rgb(255, 255, 239);
+    margin-left: 20%;
+    font-family: cursive;
+}
+.gh{
+    color: rgb(9, 9, 9);
+    margin-left: 20%;
+}
+.vg{
+    margin-left: 20%;
+    color: blue;
+}
+.zs{
+    color: rgb(10, 10, 9);
+    margin-left: 20%;
+}
+.qw{
+    color: rgb(255, 255, 255);
+    margin-left: 20%;
+    font-family: cursive;
+}
+.cc{
+    margin-left: 20%;
+    color: blue;
+}
+.ml{
+    margin-left: 10%;
+    color: royalblue;
+    font-family: cursive;
+    font-size: 30px;
+    margin-top: 5%;
+}

@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-image: url(images/freepik-export-20240905132436gvxF.jpeg);
+    background-repeat: no-repeat;
+    background-size: 1400px;
+}
+.wwq{
+    margin-top: 22.5%;
+    margin-left: 100vh;
+    font-family: cursive;
+    font-size: 30px;
+}
+.opo{
+    color: black;
+}
+.uiu:hover{
+    background-color: blueviolet;
+}
+.uiu{
+    border: 2px solid black;
+    width: 90px;
+}

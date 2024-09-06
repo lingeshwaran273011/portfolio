@@ -1,0 +1,152 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url("images/OQ3D3E0.jpg");
+    background-size: 1304px;
+    background-repeat: no-repeat;
+}
+.pro{
+    color: gold;
+    margin-top: 50px;
+    margin-left: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.po{
+    margin-top: -60px;
+    margin-left: 130vh;
+    display: flex;
+    gap: 60px; 
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+a{
+    text-decoration: none;
+}
+.if{
+    color: white;
+}
+.of{
+    color: white;
+}
+.hlo{
+    color: white;
+}
+.op{
+    color: white;
+}
+.if:hover{
+    border: 2px solid blue;
+    margin-bottom: 30px;
+    color: blueviolet;
+
+}
+.of:hover{
+    border: 2px solid blue;
+    margin-bottom: 30px;
+    color: blueviolet;
+}
+.hlo:hover{
+    border: 2px solid blue;
+    margin-bottom: 30px;
+    color: blueviolet;
+}
+.op:hover{
+    border: 2px solid blue;
+    margin-bottom: 30px;
+    color: blueviolet;
+}
+.col1{
+    height: 400px;
+    width: 400px;
+}
+.hhi{
+    color: black;
+    margin-top: 10vh;
+    margin-left: 10vh;
+    font-family: cursive;
+}
+.ha{
+    height: 150px;
+    margin-top: 5vh;
+    margin-left: 30px;
+}
+
+.haa{
+    height: 150px;
+}
+.bbb{
+    display: flex;
+    width: 300px;
+    
+}
+.koo{
+    color: black;
+    margin-top: 10vh;
+    margin-left: 10vh;
+    font-family: cursive;
+}
+.ddd{
+    height: 130px;
+}
+.lll{
+    height: 130px;
+    margin-left: -30px;
+}
+.kkk{
+    height: 130px;
+    margin-left: -30px;
+}
+.sos{
+    color: black;
+    margin-top: 10vh;
+    margin-left: 20vh;
+    font-family: cursive;
+}
+.ooo{
+    height: 130px;
+    margin-left: -30px;
+}
+.ppp{
+    height: 130px;
+    margin-left: -30px;
+}
+.ii{
+    color: black;
+    margin-top: -10vh;
+    margin-left: 20vh;
+    font-family: cursive;
+}
+.iss{
+    height: 110px;
+    margin-left: -10px;
+}
+.dd{
+    color: black;
+    margin-top: -10vh;
+    margin-left: 20vh;
+    font-family: cursive;
+}
+.ap{
+    height: 110px;
+    margin-left: 20vh;
+}
+.tt{
+    color: black;
+    margin-top: -10vh;
+    margin-left: 20vh;
+    font-family: cursive;
+}
+.ttt{
+    height: 110px;
+    margin-left: 10px;
+}
+.sss{
+    height: 110px;
+    margin-left: -30px;
+}
+
+    
+
+

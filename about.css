@@ -1,0 +1,157 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url("images/v822-aew-36.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+.main3{
+    display: flex;
+}
+.ko{
+    color: yellowgreen;
+    margin-top: 50px;
+    margin-left: 50px;
+    font-family: cursive;
+    font-style: oblique;
+    
+}
+.po{
+    margin-top: 40px;
+    margin-left: 470px;
+    display: flex;
+    gap: 60px; 
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+a{
+    text-decoration: none;
+}
+.if{
+    color: white;
+}
+.of{
+    color: white;
+}
+.hlo{
+    color: white;
+}
+.op{
+    color: white;
+}
+.if:hover{
+    border: 2px solid blue;
+    margin-bottom: 30px;
+    color: blueviolet;
+
+}
+.of:hover{
+    border: 2px solid blue;
+    margin-bottom: 30px;
+    color: blueviolet;
+}
+.hlo:hover{
+    border: 2px solid blue;
+    margin-bottom: 30px;
+    color: blueviolet;
+}
+.op:hover{
+    border: 2px solid blue;
+    margin-bottom: 30px;
+    color: blueviolet;
+}
+.xo{
+    color:  gold;
+    margin-top: 45px;
+    margin-left: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.it{
+    color: gold;
+    margin-top: 30px;
+    margin-left: 50px;
+    font-family: cursive;
+    font-style: oblique;
+    text-decoration: underline 3px solid white;
+    font-weight: bold ;
+
+}
+.vo{
+    color: white;
+    margin-top: 30px;
+    margin-left: 110px;
+    font-style: italic;
+    font-family: cursive;
+}
+.was{
+    color: gold;
+    margin-top: 30px;
+    margin-left: 50px;
+    font-family: cursive;
+    text-decoration: underline 3px solid white;
+    font-weight: bold;
+    font-style: oblique;
+}
+.has{
+    color: white;
+    margin-top: 30px;
+    margin-left: 110px;
+    font-style: italic;
+    font-family: cursive;
+}
+.who{
+    color: gold;
+    margin-top: 30px;
+    margin-left: 50px;
+    font-family: cursive;
+    text-decoration: underline 3px solid white;
+    font-weight: bold;
+    font-style: oblique;
+}
+.hai{
+    color: white;
+    margin-top: 30px;
+    margin-left: 110px;
+    font-style: italic;
+    font-family: cursive;
+}
+.she{
+    color: gold;
+    margin-top: 30px;
+    margin-left: 50px;
+    font-family: cursive;
+    text-decoration: underline 3px solid white;
+    font-weight: bold;
+    font-style: oblique;
+}
+.he{
+    color: white;
+    margin-top: 30px;
+    margin-left: 110px;
+    font-style: italic;
+    font-family: cursive;
+}
+.va{
+    color: gold;
+    margin-top: 30px;
+    margin-left: 50px;
+    font-family: cursive;
+    text-decoration: underline 3px solid white;
+    font-weight: bold;
+    font-style: oblique;
+}
+.da{
+    color: white;
+    margin-top: 30px;
+    margin-left: 110px;
+    font-style: italic;
+    font-family: cursive;
+}
+.pop{
+    margin-left: 10vh;   
+}
