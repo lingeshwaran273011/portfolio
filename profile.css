@@ -3,9 +3,7 @@
     padding: 0px;
 }
 body{
-    background-image: url("images/5851915.jpg");
-    background-size: 1280px;
-    background-repeat: no-repeat;
+    background-color: white;
 }
 .main{
     display: flex;
@@ -22,33 +20,31 @@ body{
     margin-left: 120px;
     font-size: 29px;
     font-family: Arial, Helvetica, sans-serif;
-    color: gold;
+    color: rgb(9, 148, 186);
 }
 
 .po{
     margin-top: 40px;
-    margin-left: 470px;
+    margin-left: 810px;
     display: flex;
     gap: 60px; 
     font-family: Arial, Helvetica, sans-serif;
-
-    
-    
+    position: fixed;  
 }
 a{
     text-decoration: none;
 }
 .if{
-    color: white;
+    color: black;
 }
 .of{
-    color: white;
+    color: black;
 }
 .hlo{
-    color: white;
+    color: black;
 }
 .op{
-    color: white;
+    color: black;
 }
 .if:hover{
     border: 2px solid blue;
@@ -73,10 +69,11 @@ a{
 }
 .main1{
     font-size: large;
+    margin-left: -300px;
 }
 .ok{
     
-    color: white;
+    color: black;
     font-family: Arial, Helvetica, sans-serif;
     margin-top: 7%;
     margin-left: 95vh;
@@ -84,7 +81,7 @@ a{
     
 }
 .hello{
-    color: white;
+    color: black;
     font-family: Arial, Helvetica, sans-serif;
     margin-top: 50px;
     margin-left: 85vh;
@@ -95,7 +92,7 @@ a{
     margin-top: 30px;
 }
 .so{
-    color: white;
+    color: black;
 }
 .is{
     font-family: Arial, Helvetica, sans-serif;
@@ -105,7 +102,7 @@ a{
     font-size: 24px;
 }
 .as{
-    color: white;
+    color: black;
     margin-top: 30px;
     margin-left: 56vh;
     word-spacing: 4px;
@@ -120,23 +117,29 @@ a{
 
 }
 .no{
-    color: white;
+    color: black;
     
 }
 .on{
-    color: white;
+    color: palevioletred
 }
 .an{
-    color: white;
+    color: blue
 }
-.on:hover{
-   background-color: blue;
+.qaq{
+    height: 400px;
+    margin-left: 190vh;
+    margin-top: -70vh;
 }
-.no:hover{
-    background-color: blue;
-
+.ere{
+    margin-left: 44px;
+    font-size: 30px;
 }
-.an:hover{
-    background-color: blue;
+.oio{
+    color: cadetblue;
+    margin-left: 15px;
+    width: 100px;
+    background-color: wheat;
+    height: 30px;
+    
 }
-

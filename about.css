@@ -3,9 +3,7 @@
     padding: 0px;
 }
 body{
-    background-image: url("images/v822-aew-36.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
+    background-color: whitesmoke;
     
 }
 
@@ -13,7 +11,7 @@ body{
     display: flex;
 }
 .ko{
-    color: yellowgreen;
+    color: rgba(255, 0, 0, 0.728);
     margin-top: 50px;
     margin-left: 50px;
     font-family: cursive;
@@ -22,26 +20,29 @@ body{
 }
 .po{
     margin-top: 40px;
-    margin-left: 470px;
+    margin-left: 810px;
     display: flex;
     gap: 60px; 
     font-family: Arial, Helvetica, sans-serif;
+    position: fixed;
+
+    
     
 }
 a{
     text-decoration: none;
 }
 .if{
-    color: white;
+    color: black;
 }
 .of{
-    color: white;
+    color: black;
 }
 .hlo{
-    color: white;
+    color: black;
 }
 .op{
-    color: white;
+    color: black;
 }
 .if:hover{
     border: 2px solid blue;
@@ -65,88 +66,88 @@ a{
     color: blueviolet;
 }
 .xo{
-    color:  gold;
+    color: rgb(33, 146, 202);
     margin-top: 45px;
     margin-left: 100px;
     font-family: Arial, Helvetica, sans-serif;
 
 }
 .it{
-    color: gold;
+    color: blue;
     margin-top: 30px;
     margin-left: 50px;
     font-family: cursive;
     font-style: oblique;
-    text-decoration: underline 3px solid white;
+    text-decoration: underline 3px solid black;
     font-weight: bold ;
 
 }
 .vo{
-    color: white;
+    color: #183153;
     margin-top: 30px;
     margin-left: 110px;
     font-style: italic;
     font-family: cursive;
 }
 .was{
-    color: gold;
+    color: blue;
     margin-top: 30px;
     margin-left: 50px;
     font-family: cursive;
-    text-decoration: underline 3px solid white;
+    text-decoration: underline 3px solid black;
     font-weight: bold;
     font-style: oblique;
 }
 .has{
-    color: white;
+    color: #183153;
     margin-top: 30px;
     margin-left: 110px;
     font-style: italic;
     font-family: cursive;
 }
 .who{
-    color: gold;
+    color: blue;
     margin-top: 30px;
     margin-left: 50px;
     font-family: cursive;
-    text-decoration: underline 3px solid white;
+    text-decoration: underline 3px solid black;
     font-weight: bold;
     font-style: oblique;
 }
 .hai{
-    color: white;
+    color: #183153;
     margin-top: 30px;
     margin-left: 110px;
     font-style: italic;
     font-family: cursive;
 }
 .she{
-    color: gold;
+    color: blue;
     margin-top: 30px;
     margin-left: 50px;
     font-family: cursive;
-    text-decoration: underline 3px solid white;
+    text-decoration: underline 3px solid black;
     font-weight: bold;
     font-style: oblique;
 }
 .he{
-    color: white;
+    color: #183153;
     margin-top: 30px;
     margin-left: 110px;
     font-style: italic;
     font-family: cursive;
 }
 .va{
-    color: gold;
+    color: blue;
     margin-top: 30px;
     margin-left: 50px;
     font-family: cursive;
-    text-decoration: underline 3px solid white;
+    text-decoration: underline 3px solid black;
     font-weight: bold;
     font-style: oblique;
 }
 .da{
-    color: white;
+    color: #183153;
     margin-top: 30px;
     margin-left: 110px;
     font-style: italic;

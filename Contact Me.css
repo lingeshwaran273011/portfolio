@@ -3,9 +3,7 @@
     padding: 0px;
 }
 body{
-    background-image: url("images/images\ \(4\).jpeg");
-    background-size: cover;
-    background-repeat: no-repeat;
+    background-color: whitesmoke;
 }
 .xo{
     margin-top: 20vh;
@@ -15,28 +13,34 @@ body{
 }
 
 .po{
-    margin-top: -60px;
-    position: fixed;
-    margin-left: 130vh;
+    margin-left: 810px;
+    margin-top: -73px;
     display: flex;
     gap: 60px; 
     font-family: Arial, Helvetica, sans-serif;
+    position: fixed;
+
+    
     
 }
 a{
     text-decoration: none;
 }
 .if{
-    color: white;
+    color: black;
+    
 }
 .of{
-    color: white;
+    color: black;
+    
 }
 .hlo{
-    color: white;
+    color: black;
+    
 }
 .op{
-    color: white;
+    color: black;
+    
 }
 .if:hover{
     border: 2px solid blue;
@@ -65,12 +69,12 @@ a{
     margin-left: 20%;
 }
 .de{
-    color: rgb(255, 255, 250);
+    color: black;
     margin-left: 20%;
     font-family: cursive;
 }
 .aq{
-    color: rgb(253, 255, 251);
+    color: black;
     margin-left: 20%;
     font-family: cursive;
 }
@@ -79,7 +83,7 @@ a{
     margin-left: 20%;
 }
 .lp{
-    color: rgb(255, 255, 248);
+    color: black;
     margin-left: 20%;
 }
 .az{
@@ -88,7 +92,7 @@ a{
 }
 
 .fr{
-    color: rgb(236, 236, 226);
+    color: black;
     margin-left: 20%;
 }
 .dx{
@@ -96,7 +100,7 @@ a{
     margin-left: 20%;
 }
 .kl{
-    color: rgb(255, 255, 239);
+    color: black;
     margin-left: 20%;
     font-family: cursive;
 }
@@ -113,7 +117,7 @@ a{
     margin-left: 20%;
 }
 .qw{
-    color: rgb(255, 255, 255);
+    color: black;
     margin-left: 20%;
     font-family: cursive;
 }
