@@ -3,7 +3,7 @@
     padding: 0px;
 }
 body{
-    background-image: url("images/flat-lay-black-lives-matter-awareness.jpg");
+    background-image: url("images/images\ \(4\).jpeg");
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -22,6 +22,9 @@ body{
     gap: 60px; 
     font-family: Arial, Helvetica, sans-serif;
     
+}
+a{
+    text-decoration: none;
 }
 .if{
     color: white;
@@ -80,7 +83,7 @@ body{
     margin-left: 20%;
 }
 .az{
-    color: rgb(227, 48, 48);
+    height: 15px;
     margin-left: 20%;
 }
 
