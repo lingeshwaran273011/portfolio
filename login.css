@@ -1,0 +1,44 @@
+.main{
+    margin-top: 15vh;
+    margin-left: 76vh;
+    border: 2px solid black;
+    width: 400px;
+    height: 400px;
+    background-color:whitesmoke;
+
+}
+.in{
+    padding: 50px;
+    margin-left: 30px;
+}
+input{
+    display: block;
+    margin-top: 10px;
+}
+.input label{
+    font-size: 20px;
+    font-family: cursive;
+    color: skyblue;
+}
+.wq{
+    width: 40vh;
+    height: 20px;
+}
+
+.qqw{
+    width: 40vh;
+    height: 10vh;
+}
+button{
+    margin-left: 80px;
+    margin-top: 20px;
+    color: red;
+    background-color:gainsboro;
+    font-family: cursive;
+}
+body{
+    background-color: rgb(254, 242, 242);
+}
+input{
+    font-family: cursive;
+}

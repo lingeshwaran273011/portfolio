@@ -3,7 +3,7 @@
     padding: 0px;
 }
 body{
-    background-color: whitesmoke;
+    background-color: rgb(254, 242, 242);
     
 }
 
@@ -76,7 +76,7 @@ a{
     color: blue;
     margin-top: 30px;
     margin-left: 50px;
-    font-family: cursive;
+    font-family: Arial, Helvetica, sans-serif;
     font-style: oblique;
     text-decoration: underline 3px solid black;
     font-weight: bold ;
@@ -93,7 +93,7 @@ a{
     color: blue;
     margin-top: 30px;
     margin-left: 50px;
-    font-family: cursive;
+    font-family: Arial, Helvetica, sans-serif;
     text-decoration: underline 3px solid black;
     font-weight: bold;
     font-style: oblique;
@@ -109,7 +109,7 @@ a{
     color: blue;
     margin-top: 30px;
     margin-left: 50px;
-    font-family: cursive;
+    font-family: Arial, Helvetica, sans-serif;
     text-decoration: underline 3px solid black;
     font-weight: bold;
     font-style: oblique;
@@ -125,7 +125,7 @@ a{
     color: blue;
     margin-top: 30px;
     margin-left: 50px;
-    font-family: cursive;
+    font-family: Arial, Helvetica, sans-serif;
     text-decoration: underline 3px solid black;
     font-weight: bold;
     font-style: oblique;
@@ -141,7 +141,7 @@ a{
     color: blue;
     margin-top: 30px;
     margin-left: 50px;
-    font-family: cursive;
+    font-family: Arial, Helvetica, sans-serif;
     text-decoration: underline 3px solid black;
     font-weight: bold;
     font-style: oblique;

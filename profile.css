@@ -127,19 +127,46 @@ a{
     color: blue
 }
 .qaq{
-    height: 400px;
-    margin-left: 190vh;
-    margin-top: -70vh;
+    height: 450px;
+    margin-left: 180vh;
+    margin-top: -90vh;
 }
 .ere{
     margin-left: 44px;
     font-size: 30px;
 }
 .oio{
-    color: cadetblue;
+    margin-left: -55px;
+    width: 100px;
+    height: 30px;
+    background-color: red;
+    border: 2px solid black;
+}
+.zxz{
+    color: white;
+}
+.oio:hover{
+    background-color: black;
+}
+.rer  {
     margin-left: 15px;
     width: 100px;
-    background-color: wheat;
+    background-color: red;
+    border: 2px solid black;
     height: 30px;
-    
+}
+.wqw{
+    color:white;
+}
+.rer:hover{
+    background-color: black;
+}
+.no:hover i{
+    transform: translateY(-10px);
+}
+.on:hover i{
+    transform: translateY(-10px);
+}
+.an:hover i{
+    transform: translateY(-10px);
 }
