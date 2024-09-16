@@ -11,7 +11,7 @@ body{
     display: flex;
 }
 .ko{
-    color: rgba(255, 0, 0, 0.728);
+    color: red;
     margin-top: 50px;
     margin-left: 50px;
     font-family: cursive;
